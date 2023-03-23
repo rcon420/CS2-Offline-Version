@@ -5,7 +5,7 @@ Counter-Strike 2 Source cracked offline version!
 
 Download Offline Version of New Counter-Strike 2 (Source2) 
 
-1. visit my website https://oof.lv for download link
+1. visit my website [https://oof.lv](https://oof.lv/custom/index.php?page=custom&id=cs2) for download link
 
 2. Download Torrent file (Base game)
 
