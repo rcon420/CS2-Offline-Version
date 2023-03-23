@@ -13,4 +13,4 @@ Download Offline Version of New Counter-Strike 2 (Source2)
 
 4. To launch the game, simply run CS2.bat which is located inside the "game" folder
 
-5. To Be safe run it while Steam app is closed or from alt account!
+5. To Be safe run it from alt account!
