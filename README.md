@@ -1,7 +1,9 @@
 # CS2-Offline/Online-Version-Without-Beta
 Counter-Strike 2 Source cracked offline / online version without beta!
 
-TEST SERVER IP, open console and write: connect cs2.oof.lv
+TEST SERVER IP, open console and write: 
+connect cs2.oof.lv (competitive)
+connect cs2.oof.lv (deathmatch)
 
 Download Offline / Online Version of New Counter-Strike 2 (Source2) 
 
