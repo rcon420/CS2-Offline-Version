@@ -30,6 +30,10 @@ Tip: To Be safe use ALT steam account not your main account!
 ====
 Changelog:
 
+04.04.2023
+
+- Latest build added 47/13868 9652 + Auto updater launcher
+
 26.03.2023
 - Added Build: 47/13862 9640
 
