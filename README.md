@@ -32,7 +32,7 @@ Changelog:
 
 04.04.2023
 
-- Latest build added 47/13868 9652 + Auto updater launcher
+- Latest build added 47/13868 9652 + Auto updater launcher + CS2 Map pack download
 
 26.03.2023
 - Added Build: 47/13862 9640
