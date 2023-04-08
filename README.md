@@ -18,7 +18,7 @@ Download Offline / Online Version of New Counter-Strike 2 (Source2)
 
 4. You MUST HAVE INSTALLED AND OPENED STEAM
 
-5. Run a shortcut from desktop or from dir Loader.exe
+5. Run a shortcut from dir cs2 english.bat
 
 6. New updates will be showed on launcher. If there is new updates, hit update button
 
