@@ -30,6 +30,10 @@ Tip: To Be safe use ALT steam account not your main account!
 ====
 Changelog:
 
+06.02.2023
+
+- Added new  Game Build: 47/13870 9652
+
 04.04.2023
 
 - Latest build added 47/13868 9652 + Auto updater launcher + CS2 Map pack download
