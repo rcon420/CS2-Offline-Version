@@ -30,6 +30,10 @@ Tip: To Be safe use ALT steam account not your main account!
 ====
 Changelog:
 
+06.09.2023
+
+Game Update: 47/13884 9720 added
+
 06.08.2023
 
 Game Update: 47/13882 9720 added
