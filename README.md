@@ -30,6 +30,10 @@ Tip: To Be safe use ALT steam account not your main account!
 ====
 Changelog:
 
+06.30.2023
+
+Game Update: 47/13894 9744 Added
+
 06.15.2023 
 
 Game Build: 47/13890 9720 15.06.2023 + new updater https://github.com/CS2-OOF-LV
