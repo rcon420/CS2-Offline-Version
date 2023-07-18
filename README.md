@@ -1,11 +1,11 @@
 # CS2-Offline/Online-Version-Without-Beta
-Counter-Strike 2 Source cracked offline / online version without beta!
+Counter-Strike 2 Source cracked offline/online version without beta!
 
 TEST SERVER IP, open console and write: 
 connect cs2.oof.lv (competitive)
 connect cs2.oof.lv:27016 (retake)
 
-Download Offline / Online Version of New Counter-Strike 2 (Source2) 
+Download the Offline / Online Version of New Counter-Strike 2 (Source2) 
 
 
 
@@ -20,15 +20,19 @@ Download Offline / Online Version of New Counter-Strike 2 (Source2)
 
 5. Run a shortcut from dir cs2 english.bat
 
-6. New updates will be showed on launcher. If there is new updates, hit update button
+6. New updates will be shown on the launcher. If there are new updates, hit the update button
 
-7. Hit “play a game button”. Enjoy !!!
+7. Hit “Play a game button”. Enjoy !!!
 
-Tip: To Be safe use ALT steam account not your main account!
+Tip: To Be safe, use the ALT steam account, not your main account!
 
 
 ====
 Changelog:
+
+07.18.2023 
+
+Game Update: 47/13900 9757 added
 
 06.30.2023
 
